@@ -1,1 +1,1 @@
-This code snipped demonstrate how to parse json http response using javascript taking space complexity into consideration
+This code snipped demonstrate how to parse json http response using js while optimizing space
