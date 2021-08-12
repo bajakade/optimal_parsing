@@ -1,0 +1,2868 @@
+"data": [
+    {
+      "id": "6c687f49-71c0-4ec2-b6f1-e1c582b5ad50",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 10,
+          "minute": 36,
+          "second": 3,
+          "nano": 629000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 10,
+          "minute": 38,
+          "second": 53,
+          "nano": 692000000
+        }
+      },
+      "items": [
+        {
+          "id": "4cc4bdcb-b410-4abd-aeee-eda77d8ac98d",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "name": "Semovita",
+          "description": "Swallow",
+          "pricing": 8000.0
+        },
+        {
+          "id": "73e558ba-6f1b-44e6-80f6-f5219219c40b",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "name": "Orange Juice",
+          "description": "Drinks",
+          "pricing": 700.0
+        },
+        {
+          "id": "73e558ba-6f1b-44e6-80f6-f5219219c40b",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "name": "Orange Juice",
+          "description": "Drinks",
+          "pricing": 700.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        }
+      ],
+      "price": 10400.0,
+      "collectedBy": "Administrator Admin",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "ea3294c1-4b1c-4c13-b26e-4e24b01b94a8",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 14
+        },
+        "time": {
+          "hour": 18,
+          "minute": 14,
+          "second": 26,
+          "nano": 698000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 10,
+          "minute": 39,
+          "second": 34,
+          "nano": 12000000
+        }
+      },
+      "items": [
+        {
+          "id": "4cc4bdcb-b410-4abd-aeee-eda77d8ac98d",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "name": "Semovita",
+          "description": "Swallow",
+          "pricing": 8000.0
+        },
+        {
+          "id": "4cc4bdcb-b410-4abd-aeee-eda77d8ac98d",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "name": "Semovita",
+          "description": "Swallow",
+          "pricing": 8000.0
+        },
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "73e558ba-6f1b-44e6-80f6-f5219219c40b",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "name": "Orange Juice",
+          "description": "Drinks",
+          "pricing": 700.0
+        },
+        {
+          "id": "73e558ba-6f1b-44e6-80f6-f5219219c40b",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "name": "Orange Juice",
+          "description": "Drinks",
+          "pricing": 700.0
+        },
+        {
+          "id": "73e558ba-6f1b-44e6-80f6-f5219219c40b",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 46,
+              "second": 35,
+              "nano": 969000000
+            }
+          },
+          "name": "Orange Juice",
+          "description": "Drinks",
+          "pricing": 700.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "8ff1dba3-d5b6-4569-8894-bab2abc9ea15",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 49,
+              "second": 28,
+              "nano": 705000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 49,
+              "second": 28,
+              "nano": 705000000
+            }
+          },
+          "name": "",
+          "description": "",
+          "pricing": 0.0
+        },
+        {
+          "id": "8ff1dba3-d5b6-4569-8894-bab2abc9ea15",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 49,
+              "second": 28,
+              "nano": 705000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 49,
+              "second": 28,
+              "nano": 705000000
+            }
+          },
+          "name": "",
+          "description": "",
+          "pricing": 0.0
+        },
+        {
+          "id": "8ff1dba3-d5b6-4569-8894-bab2abc9ea15",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 49,
+              "second": 28,
+              "nano": 705000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 49,
+              "second": 28,
+              "nano": 705000000
+            }
+          },
+          "name": "",
+          "description": "",
+          "pricing": 0.0
+        }
+      ],
+      "price": 23600.0,
+      "collectedBy": "Administrator Admin",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "84df6c24-f82a-437c-8aa9-fa1e9690ab45",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 11,
+          "minute": 28,
+          "second": 53,
+          "nano": 949000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 11,
+          "minute": 29,
+          "second": 10,
+          "nano": 101000000
+        }
+      },
+      "items": [
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        }
+      ],
+      "price": 400.0,
+      "collectedBy": "Administrator Admin",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "c8ea8c15-9ef3-460c-9db6-e58b2d5e5013",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 11,
+          "minute": 31,
+          "second": 11,
+          "nano": 19000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 11,
+          "minute": 43,
+          "second": 15,
+          "nano": 784000000
+        }
+      },
+      "items": [
+        {
+          "id": "4cc4bdcb-b410-4abd-aeee-eda77d8ac98d",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "name": "Semovita",
+          "description": "Swallow",
+          "pricing": 8000.0
+        },
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        }
+      ],
+      "price": 8900.0,
+      "collectedBy": "Administrator Admin",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "f0dee99d-f3e0-437a-b1c1-2b08d093b201",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 11,
+          "minute": 44,
+          "second": 27,
+          "nano": 586000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 15
+        },
+        "time": {
+          "hour": 11,
+          "minute": 44,
+          "second": 31,
+          "nano": 985000000
+        }
+      },
+      "items": [
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        }
+      ],
+      "price": 400.0,
+      "collectedBy": "Administrator Admin",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "a15efa97-1644-4e19-81be-57f27e7ff3fe",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 7,
+          "day": 27
+        },
+        "time": {
+          "hour": 13,
+          "minute": 30,
+          "second": 27,
+          "nano": 811000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 1
+        },
+        "time": {
+          "hour": 23,
+          "minute": 6,
+          "second": 55,
+          "nano": 984000000
+        }
+      },
+      "items": [
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        }
+      ],
+      "price": 1600.0,
+      "collectedBy": "Musa Ahmed",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "9effd157-d9b8-4446-b206-5f15a567a18f",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 2
+        },
+        "time": {
+          "hour": 9,
+          "minute": 19,
+          "second": 32,
+          "nano": 397000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 2
+        },
+        "time": {
+          "hour": 9,
+          "minute": 19,
+          "second": 50,
+          "nano": 920000000
+        }
+      },
+      "items": [
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        }
+      ],
+      "price": 6400.0,
+      "collectedBy": "Musa Ahmed",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "cced0c49-a292-4110-ae2d-a44c3071413a",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 2
+        },
+        "time": {
+          "hour": 9,
+          "minute": 21,
+          "second": 57,
+          "nano": 605000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 11,
+          "minute": 4,
+          "second": 12,
+          "nano": 269000000
+        }
+      },
+      "items": [
+        {
+          "id": "4cc4bdcb-b410-4abd-aeee-eda77d8ac98d",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "name": "Semovita",
+          "description": "Swallow",
+          "pricing": 8000.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "f50783b3-9044-4e17-87da-896395cebc6c",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "name": "Pepper Chicken",
+          "description": "Chicken",
+          "pricing": 1400.0
+        }
+      ],
+      "price": 9900.0,
+      "collectedBy": "Musa Ahmed",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "38df9d9e-ba4f-4f70-b230-7e47b3d82dce",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 11,
+          "minute": 3,
+          "second": 6,
+          "nano": 826000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 11,
+          "minute": 14,
+          "second": 53,
+          "nano": 551000000
+        }
+      },
+      "items": [
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "f50783b3-9044-4e17-87da-896395cebc6c",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "name": "Pepper Chicken",
+          "description": "Chicken",
+          "pricing": 1400.0
+        }
+      ],
+      "price": 1900.0,
+      "collectedBy": "Ibrahim Bashir",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "646f7300-0140-421c-8d7b-41ac63aa5360",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 11,
+          "minute": 3,
+          "second": 2,
+          "nano": 978000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 11,
+          "minute": 16,
+          "second": 15,
+          "nano": 426000000
+        }
+      },
+      "items": [
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "f50783b3-9044-4e17-87da-896395cebc6c",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "name": "Pepper Chicken",
+          "description": "Chicken",
+          "pricing": 1400.0
+        }
+      ],
+      "price": 1800.0,
+      "collectedBy": "Ibrahim Bashir",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "656eef06-397b-40f7-9a61-ed52cbb31bbd",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 11,
+          "minute": 2,
+          "second": 59,
+          "nano": 93000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 11,
+          "minute": 28,
+          "second": 38,
+          "nano": 795000000
+        }
+      },
+      "items": [
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        }
+      ],
+      "price": 1600.0,
+      "collectedBy": "Ibrahim Bashir",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "05de6b74-ecd1-412d-8f20-83ea65e87911",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 9,
+          "minute": 51,
+          "second": 51,
+          "nano": 61000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 11,
+          "minute": 28,
+          "second": 46,
+          "nano": 448000000
+        }
+      },
+      "items": [
+        {
+          "id": "4cc4bdcb-b410-4abd-aeee-eda77d8ac98d",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "name": "Semovita",
+          "description": "Swallow",
+          "pricing": 8000.0
+        },
+        {
+          "id": "4cc4bdcb-b410-4abd-aeee-eda77d8ac98d",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 44,
+              "second": 25,
+              "nano": 709000000
+            }
+          },
+          "name": "Semovita",
+          "description": "Swallow",
+          "pricing": 8000.0
+        },
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "f50783b3-9044-4e17-87da-896395cebc6c",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "name": "Pepper Chicken",
+          "description": "Chicken",
+          "pricing": 1400.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        }
+      ],
+      "price": 23600.0,
+      "collectedBy": "Ibrahim Bashir",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "88457e56-2b54-4c0c-ae0a-90862adb325b",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 13,
+          "minute": 35,
+          "second": 4,
+          "nano": 88000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 13,
+          "minute": 35,
+          "second": 4,
+          "nano": 88000000
+        }
+      },
+      "items": [
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "f50783b3-9044-4e17-87da-896395cebc6c",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "name": "Pepper Chicken",
+          "description": "Chicken",
+          "pricing": 1400.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        }
+      ],
+      "price": 3000.0,
+      "collectedBy": "Ibrahim Bashir",
+      "paymentStatus": "UNPAID"
+    },
+    {
+      "id": "97fc4142-dd01-4947-919b-0d81ece9ff5a",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 13,
+          "minute": 35,
+          "second": 7,
+          "nano": 78000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 13,
+          "minute": 35,
+          "second": 7,
+          "nano": 78000000
+        }
+      },
+      "items": [
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "f50783b3-9044-4e17-87da-896395cebc6c",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "name": "Pepper Chicken",
+          "description": "Chicken",
+          "pricing": 1400.0
+        }
+      ],
+      "price": 1900.0,
+      "collectedBy": "Ibrahim Bashir",
+      "paymentStatus": "UNPAID"
+    },
+    {
+      "id": "98a648c8-41e4-4189-b3bc-7005707c6bcb",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 13,
+          "minute": 35,
+          "second": 41,
+          "nano": 267000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 13,
+          "minute": 35,
+          "second": 41,
+          "nano": 267000000
+        }
+      },
+      "items": [
+        {
+          "id": "a100738e-e50e-47f3-b2a0-63cc26876dc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 47,
+              "second": 43,
+              "nano": 692000000
+            }
+          },
+          "name": "Corn",
+          "description": "Dessert",
+          "pricing": 500.0
+        },
+        {
+          "id": "f50783b3-9044-4e17-87da-896395cebc6c",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "name": "Pepper Chicken",
+          "description": "Chicken",
+          "pricing": 1400.0
+        }
+      ],
+      "price": 1900.0,
+      "collectedBy": "Ibrahim Bashir",
+      "paymentStatus": "UNPAID"
+    },
+    {
+      "id": "254bde91-94a9-4e79-b999-99fe06c0fc3b",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 13,
+          "minute": 36,
+          "second": 5,
+          "nano": 236000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 3
+        },
+        "time": {
+          "hour": 13,
+          "minute": 36,
+          "second": 5,
+          "nano": 236000000
+        }
+      },
+      "items": [
+        {
+          "id": "8ddd2bb6-7dc0-4f0b-b868-de61a1fdddc3",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 14
+            },
+            "time": {
+              "hour": 17,
+              "minute": 45,
+              "second": 19,
+              "nano": 46000000
+            }
+          },
+          "name": "Soda",
+          "description": "Drinks",
+          "pricing": 400.0
+        },
+        {
+          "id": "f50783b3-9044-4e17-87da-896395cebc6c",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 15
+            },
+            "time": {
+              "hour": 12,
+              "minute": 17,
+              "second": 44,
+              "nano": 613000000
+            }
+          },
+          "name": "Pepper Chicken",
+          "description": "Chicken",
+          "pricing": 1400.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        }
+      ],
+      "price": 3000.0,
+      "collectedBy": "Ibrahim Bashir",
+      "paymentStatus": "UNPAID"
+    },
+    {
+      "id": "60a4187e-c1bc-4f4c-b7d9-7fa92d7937da",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 4
+        },
+        "time": {
+          "hour": 20,
+          "minute": 36,
+          "second": 8,
+          "nano": 280000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 4
+        },
+        "time": {
+          "hour": 20,
+          "minute": 40,
+          "second": 9,
+          "nano": 673000000
+        }
+      },
+      "items": [
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        }
+      ],
+      "price": 13200.0,
+      "collectedBy": "Musa Ahmed",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    },
+    {
+      "id": "3f10e9ff-939f-484f-b132-19fa4659a00c",
+      "createdAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 4
+        },
+        "time": {
+          "hour": 20,
+          "minute": 40,
+          "second": 25,
+          "nano": 669000000
+        }
+      },
+      "updatedAt": {
+        "date": {
+          "year": 2021,
+          "month": 8,
+          "day": 4
+        },
+        "time": {
+          "hour": 20,
+          "minute": 42,
+          "second": 4,
+          "nano": 181000000
+        }
+      },
+      "items": [
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        },
+        {
+          "id": "dcd208d1-55df-45d3-879a-b5d0d49c31ce",
+          "createdAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "updatedAt": {
+            "date": {
+              "year": 2021,
+              "month": 7,
+              "day": 17
+            },
+            "time": {
+              "hour": 0,
+              "minute": 41,
+              "second": 43,
+              "nano": 953000000
+            }
+          },
+          "name": "Akpu",
+          "description": "Igbo dominant Akpu",
+          "pricing": 1200.0
+        }
+      ],
+      "price": 8400.0,
+      "collectedBy": "Musa Ahmed",
+      "paymentStatus": "PAID",
+      "paymentType": "cash"
+    }
+  ]
